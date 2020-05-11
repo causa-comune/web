@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "cause-comune-web"
+    }
+  },
+  "defaultProject": "cause-comune-web",
+  "cli": {
+    "analytics": false
+  }
 }
